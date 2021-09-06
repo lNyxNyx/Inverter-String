@@ -1,0 +1,48 @@
+body{
+    background-color: #089aff;
+    font: normal 15pt Arial ;
+
+}
+header{
+    color: white;
+    margin-top: 150px;
+    text-align: center;
+}
+h1{
+    text-shadow: #000 4px 2px 2px;
+}
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width:500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0);
+
+}
+input#nome{
+    border: 2px solid #000000;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.384);
+    font-size: 16px;
+}
+#botao{
+    font-size: 16px;
+    padding: 2px 20px;
+    margin-left:10px; 
+    border: 1px solid #000000;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0);
+}
+
+#botao:hover{
+    background-color: #8888;
+    color:white;
+    font-size: 15px;
+    margin-bottom: 1px;
+}
+
+#res{
+    padding-top: 30px;
+
+}
+
+
